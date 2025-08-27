@@ -3,7 +3,7 @@
 **Agregando conhecimento indígena real com tecnologia de ponta**
 
 <div align="center">
-  <img src="./public/char.png" alt="Pajé Virtual" width="200" height="200" style="border-radius: 50%"/>
+  <img src="public/char.png" alt="Pajé Virtual" width="200" height="200" style="border-radius: 50%"/>
 </div>
 
 ---
@@ -42,7 +42,7 @@ Acesse `http://localhost:3000` e comece a conversar com o Pajé Virtual! 🚀
 
 ---
 
-## [📖 Conheça Mais Sobre o Projeto](https://github.com/seu-usuario/paje-virtual)
+## [📖 Conheça Mais Sobre o Projeto](https://github.com/lucasdpassos/paj--virtual)
 
 Descubra como este projeto preserva e democratiza o conhecimento tradicional indígena através da tecnologia moderna, respeitando sempre a origem ancestral destes saberes.
 
