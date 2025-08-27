@@ -3,7 +3,7 @@
 **Agregando conhecimento indígena real com tecnologia de ponta**
 
 <div align="center">
-  <img src="public/char.png" alt="Pajé Virtual" width="200" height="200" style="border-radius: 50%"/>
+  <img src="char.png" alt="Pajé Virtual" width="200" height="200" style="border-radius: 50%"/>
 </div>
 
 ---
